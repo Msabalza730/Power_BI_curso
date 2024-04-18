@@ -11,3 +11,9 @@ Dashboard sobre BD de un call center.
 Dashboard sobre BD de RRHH.
 
 ![image](https://github.com/Msabalza730/Power_BI_curso/assets/55921624/113ba529-f023-4f27-a19e-08a321f33dfb)
+
+
+## Clase 3
+Dashboard sobre BD de Ventas.
+
+![image](https://github.com/Msabalza730/Power_BI_curso/assets/55921624/43c7c120-cd6d-41a1-8de2-268b1d87162b)
